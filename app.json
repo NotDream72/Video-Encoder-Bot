@@ -38,10 +38,10 @@
             "description":"put 1 or 0"
        },
        "DOWNLOAD_DIR":{
-            " put this as VideoEncoder/utils/downloads/"
+            "description": "put this as VideoEncoder/utils/downloads/"
        },
        "ENCODE_DIR":{
-            "Put this as VideoEncoder/utils/encodes/"
+            "description": "Put this as VideoEncoder/utils/encodes/"
       }
     }
 }
