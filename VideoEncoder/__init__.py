@@ -75,9 +75,6 @@ PROGRESS = """
 """
 
 
-if not os.path.isdir(encode_dir):
-    os.makedirs(encode_dir)
-
 
 logging.basicConfig(
     level=logging.DEBUG,
