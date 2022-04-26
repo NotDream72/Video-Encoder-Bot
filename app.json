@@ -18,6 +18,24 @@
         },
         "BOT_TOKEN":{
             "description":"Get this from https://t.me/botfather and enable Inline Mode"
-        }
+        },
+        "RESOLUTION":{
+            "description":"do nothing"
+        },
+        "PRESENT":{
+            "description":"set it as sf"
+        },
+        "TUNE":{
+            "description":"set it to film"
+        },
+        "AUDIO":{
+            "description":"set as opus"
+        },
+        "CRF":{
+            "description":"recommended value is 29"
+        },
+        "UPLOAD_AS_DOC":{
+            "description":"put 1 or 0"
+      }
     }
 }
