@@ -1,0 +1,23 @@
+{
+  "name": "Video encoding bot",
+  "description": "A Telegram based encoding bot for you!",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/NotDream72/Video-Encoder-Bot",
+  " herokustack": "set stack 20",
+  "env":{
+        "API_ID":{
+            "description":"Get this value from https://my.telegram.org"
+        },
+        "API_HASH":{
+            "description":"Get this value from https://my.telegram.org"
+        },
+        "SUDO_USERS":{
+            "description":"sudo users for your bot separate them by spaces uwu"
+        },
+        "BOT_TOKEN":{
+            "description":"Get this from https://t.me/botfather and enable Inline Mode"
+        }
+    }
+}
